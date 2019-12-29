@@ -1,7 +1,7 @@
 ## Code for Multi-view Recognition of 3D Object Shapes
 
 ### Installation
-Code is tested on Python 2.7 and [pytorch 0.3.1](https://pytorch.org/). Please install pytorch first.
+Code is tested on Python 2.7 and [Pytorch 0.3.1](https://pytorch.org/). Please install pytorch first.
 
 ### Usage
 * Download dataset:
