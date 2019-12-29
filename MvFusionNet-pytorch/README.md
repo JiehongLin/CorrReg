@@ -6,7 +6,7 @@ Code is tested on Python 2.7 and [Pytorch 0.3.1](https://pytorch.org/). Please i
 ### Usage
 * Download dataset:
 
-We use the data processed in paper "[A Deeper Look at 3D Shape Classifiers](https://people.cs.umass.edu/~jcsu/papers/shape_recog/)". Please download [ModelNet40 dataset](http://supermoe.cs.umass.edu/shape_recog/shaded_images.tar.gz) here and put it under the folder  `modelnet40_images_new_12x`. 
+We use the data processed in the paper "[A Deeper Look at 3D Shape Classifiers](https://people.cs.umass.edu/~jcsu/papers/shape_recog/)". Please download [ModelNet40 dataset](http://supermoe.cs.umass.edu/shape_recog/shaded_images.tar.gz) here and put it under the folder  `modelnet40_images_new_12x`. 
 
 
 
