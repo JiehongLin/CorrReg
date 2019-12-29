@@ -4,6 +4,11 @@ Created by [Kui Jia](http://www.scut-gpi.cn/jiakui), Jiehong Lin, Mingkui Tan an
 ### Introduction
 This work is 
 
+
+### Implementations
+* [Torch](https://github.com/MortimerLin/CorrReg/tree/master/RGBD-ConvNet-torch)
+* [Pytorch](https://github.com/MortimerLin/CorrReg/tree/master/MvFusionNet-pytorch) 
+
 ### Citation
 If you find our work useful in your research, please consider citing:
 
