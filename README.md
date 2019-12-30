@@ -1,5 +1,5 @@
 # Deep Multi-View Learning Using Neuron-Wise Correlation-Maximizing Regularizers
-Created by [Kui Jia](http://www.scut-gpi.cn/jiakui), Jiehong Lin, Mingkui Tan and Dacheng Tao.
+Created by Kui Jia, Jiehong Lin, Mingkui Tan and Dacheng Tao.
 
 ### Introduction
 This is the code released for our work "Deep Multi-View Learning Using Neuron-Wise Correlation-Maximizing Regularizers" published in TIP2019. In this work, we study the problem of learning deep representations from multi-view data in end-to-end networks. We take a regularization approach via multi-view learning criteria, and propose a novel, effective, and efficient neuron-wise correlation-maximizing regularizer. We implement our proposed regularizers collectively as a correlation-regularized network layer (CorrReg).
